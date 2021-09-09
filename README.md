@@ -1,7 +1,7 @@
 # Memoriae
 ***O lugar para você relembrar.***
 
-É meu primeiro projeto back end e consequentemente em PHP, então, por favor não exija muito dele.
+É meu primeiro projeto back end e consequentemente o primeiro em PHP, então, por favor não exija muito dele.
 
 ### Nele você pode:
 - Subir suas Imagens
